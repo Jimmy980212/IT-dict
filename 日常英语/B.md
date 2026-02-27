@@ -1,10 +1,10 @@
 # Word
-| Enlish | 中文 | |
+| English | 中文 | |
 | ---- | ---- | ---- |
 
 
 
 
 # Phrase
-| Enlish | 中文 | |
+| English | 中文 | |
 | ---- | ---- | ---- |
